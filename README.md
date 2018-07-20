@@ -1,3 +1,3 @@
-to run this project :
+To run this project :
 + npm install
 + npm start 
